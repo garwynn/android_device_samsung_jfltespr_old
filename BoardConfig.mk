@@ -32,5 +32,5 @@ TARGET_BOOTLOADER_BOARD_NAME := jfltespr
 TARGET_OTA_ASSERT_DEVICE := jfltespr
 
 # Kernel
-#TARGET_KERNEL_CONFIG    := jfltespr_defconfig
+# TARGET_KERNEL_CONFIG    := jfltespr_defconfig
 TARGET_PREBUILT_KERNEL := device/samsung/jfltespr/kernel
